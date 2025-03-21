@@ -4,4 +4,4 @@ psycopg2-binary
 python-dotenv
 uvicorn
 python-multipart
-tensorflow-cpu==2.10.0
+tensorflow-cpu
